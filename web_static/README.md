@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 0x01. AirBnB clone - Web static
 
 ## Learning Objectives:bulb:
@@ -74,3 +75,6 @@ What you should learn from this project:
 
 ## Author
 * **Allan Ndonga** - [alz254](https://github.com/alz254)
+=======
+web_static
+>>>>>>> dc2cf5baccec849500b9083ba1e66b9cf56e6023
